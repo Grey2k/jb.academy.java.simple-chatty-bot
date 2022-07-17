@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="Simple_Chatty_Bot.Simple_Chatty_Bot-task.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Printing_data-Digits_from_0_to_9_backwards.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Printing_data-First,_second,_third.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Printing_data-From_0_to_4.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Printing_data-Printing_a_magic_letter.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Printing_data-Stars.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Printing_data-The_result_of_a_Tic-Tac-Toe_game.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Printing_data-Theory.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Printing_data-We_need_to_learn_Java.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Printing_data-What_does_the_code_print.main" target="11" />
+      <module name="Simple_Chatty_Bot.util.main" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
