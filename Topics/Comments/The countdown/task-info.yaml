@@ -1,0 +1,25 @@
+type: code
+files:
+- name: src/Main.java
+  visible: true
+  text: |-
+    public class Main {
+
+        public static void main(String[] args) {
+            /*
+            System.out.print("three! ");
+            // System.out.print("two! ");
+            // System.out.println("one!");
+            // System.out.println("go!");
+            */
+
+            System.out.println("go!");
+        }
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/2497#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Sun, 17 Jul 2022 20:00:56 UTC
+record: -1

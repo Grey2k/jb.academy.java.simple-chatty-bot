@@ -1,0 +1,21 @@
+type: code
+files:
+- name: src/Main.java
+  visible: true
+  text: |-
+    public class Main {
+
+        public static void main(String[] args) {
+
+            /*
+            // System.out.println("Yet another simple Java application");
+            System.out.println("Do not print this line");
+        }
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/2495#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Sun, 17 Jul 2022 19:58:15 UTC
+record: -1
