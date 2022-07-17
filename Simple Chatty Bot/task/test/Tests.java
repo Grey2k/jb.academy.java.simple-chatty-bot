@@ -1,40 +1,51 @@
-import org.hyperskill.hstest.testcase.CheckResult;
 import org.hyperskill.hstest.stage.StageTest;
+import org.hyperskill.hstest.testcase.CheckResult;
 import org.hyperskill.hstest.testcase.TestCase;
 
 import java.util.List;
 
-
-public class Tests extends StageTest {
+public class Tests extends StageTest<String> {
 
     @Override
-    public List<TestCase> generate() {
+    public List<TestCase<String>> generate() {
         return List.of(
-            new TestCase<>()
+            new TestCase<String>()
+                .setInput("John")
+                .setAttach("John"),
+
+            new TestCase<String>()
+                .setInput("Nick")
+                .setAttach("Nick")
         );
     }
 
     @Override
-    public CheckResult check(String reply, Object clue) {
+    public CheckResult check(String reply, String clue) {
 
         String[] lines = reply.trim().split("\n");
 
-        if (lines.length != 2) {
+        if (lines.length != 4) {
             return CheckResult.wrong(
-                "You should output exactly 2 lines!\n" +
-                    "Lines found: " + lines.length
+                "You should output 4 lines. " +
+                    "Lines found: " + lines.length + "\n" +
+                    "Your output:\n" +
+                    reply
             );
         }
 
-        String secondLine = lines[1];
+        String lineWithName = lines[3].toLowerCase();
+        String name = clue.toLowerCase();
 
-        if (!secondLine.matches(".*\\d.*")) {
+        if (!lineWithName.contains(name)) {
             return CheckResult.wrong(
-                "The second line should contain a year!\n" +
-                    "Your second line: \"" + secondLine + "\""
+                "The name was " + clue + "\n" +
+                    "But the 4-th line was:\n" +
+                    "\"" + lines[3] + "\"\n\n" +
+                    "4-th line should contain a name of the user"
             );
         }
 
         return CheckResult.correct();
     }
+
 }
