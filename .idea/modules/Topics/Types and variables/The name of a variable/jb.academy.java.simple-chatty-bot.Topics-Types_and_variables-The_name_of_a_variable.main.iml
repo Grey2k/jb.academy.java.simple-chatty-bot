@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":Topics-Types_and_variables-The_name_of_a_variable:main" external.linked.project.path="$MODULE_DIR$/../../../../../Topics/Types and variables/The name of a variable" external.root.project.path="$MODULE_DIR$/../../../../.." external.system.id="GRADLE" external.system.module.group="jb.academy.java.simple-chatty-bot" external.system.module.type="sourceSet" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_14">
+    <output url="file://$MODULE_DIR$/../../../../../Topics/Types and variables/The name of a variable/out/production/classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../../Topics/Types and variables/The name of a variable/src">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../../Topics/Types and variables/The name of a variable/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

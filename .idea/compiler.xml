@@ -2,6 +2,56 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel target="17">
+      <module name="jb.academy.java.simple-chatty-bot.Simple_Chatty_Bot-task-build-classes-java.main" target="14" />
+      <module name="jb.academy.java.simple-chatty-bot.Simple_Chatty_Bot-task-build-generated-sources-annotationProcessor-java.main" target="14" />
+      <module name="jb.academy.java.simple-chatty-bot.Simple_Chatty_Bot-task-build-generated-sources-headers-java.main" target="14" />
+      <module name="jb.academy.java.simple-chatty-bot.Simple_Chatty_Bot-task-build-reports-tests.main" target="14" />
+      <module name="jb.academy.java.simple-chatty-bot.Simple_Chatty_Bot-task-build-test-results.main" target="14" />
+      <module name="jb.academy.java.simple-chatty-bot.Simple_Chatty_Bot-task-build-tmp.main" target="14" />
+      <module name="jb.academy.java.simple-chatty-bot.Simple_Chatty_Bot-task.main" target="14" />
+      <module name="jb.academy.java.simple-chatty-bot.Topics-Comments-Forms_of_comments.main" target="14" />
+      <module name="jb.academy.java.simple-chatty-bot.Topics-Comments-Hello,_Java_platform.main" target="14" />
+      <module name="jb.academy.java.simple-chatty-bot.Topics-Comments-Incorrect_comments.main" target="14" />
+      <module name="jb.academy.java.simple-chatty-bot.Topics-Comments-Javadoc_comment.main" target="14" />
+      <module name="jb.academy.java.simple-chatty-bot.Topics-Comments-Printing_only_the_longest_line.main" target="14" />
+      <module name="jb.academy.java.simple-chatty-bot.Topics-Comments-Select_all_correct_comments.main" target="14" />
+      <module name="jb.academy.java.simple-chatty-bot.Topics-Comments-Statements.main" target="14" />
+      <module name="jb.academy.java.simple-chatty-bot.Topics-Comments-The_countdown.main" target="14" />
+      <module name="jb.academy.java.simple-chatty-bot.Topics-Comments-The_forgotten_comments.main" target="14" />
+      <module name="jb.academy.java.simple-chatty-bot.Topics-Comments-Theory.main" target="14" />
+      <module name="jb.academy.java.simple-chatty-bot.Topics-Comments-Three_numbers.main" target="14" />
+      <module name="jb.academy.java.simple-chatty-bot.Topics-Comments-Uncomment_a_line.main" target="14" />
+      <module name="jb.academy.java.simple-chatty-bot.Topics-Comments-What_comments_are_not_used_in_the_program.main" target="14" />
+      <module name="jb.academy.java.simple-chatty-bot.Topics-Printing_data-Digits_from_0_to_9_backwards.main" target="14" />
+      <module name="jb.academy.java.simple-chatty-bot.Topics-Printing_data-First,_second,_third.main" target="14" />
+      <module name="jb.academy.java.simple-chatty-bot.Topics-Printing_data-From_0_to_4.main" target="14" />
+      <module name="jb.academy.java.simple-chatty-bot.Topics-Printing_data-Printing_a_magic_letter.main" target="14" />
+      <module name="jb.academy.java.simple-chatty-bot.Topics-Printing_data-Stars.main" target="14" />
+      <module name="jb.academy.java.simple-chatty-bot.Topics-Printing_data-The_result_of_a_Tic-Tac-Toe_game.main" target="14" />
+      <module name="jb.academy.java.simple-chatty-bot.Topics-Printing_data-Theory.main" target="14" />
+      <module name="jb.academy.java.simple-chatty-bot.Topics-Printing_data-We_need_to_learn_Java.main" target="14" />
+      <module name="jb.academy.java.simple-chatty-bot.Topics-Printing_data-What_does_the_code_print.main" target="14" />
+      <module name="jb.academy.java.simple-chatty-bot.Topics-Scanning_the_input-Guest_list_of_a_hotel.main" target="14" />
+      <module name="jb.academy.java.simple-chatty-bot.Topics-Scanning_the_input-Hiring_a_chef.main" target="14" />
+      <module name="jb.academy.java.simple-chatty-bot.Topics-Scanning_the_input-Print_strings_in_the_reverse_order.main" target="14" />
+      <module name="jb.academy.java.simple-chatty-bot.Topics-Scanning_the_input-Printing_each_word_in_a_new_line.main" target="14" />
+      <module name="jb.academy.java.simple-chatty-bot.Topics-Scanning_the_input-Printing_strings_in_the_same_order.main" target="14" />
+      <module name="jb.academy.java.simple-chatty-bot.Topics-Scanning_the_input-Reading_a_number.main" target="14" />
+      <module name="jb.academy.java.simple-chatty-bot.Topics-Scanning_the_input-Reading_a_single_word.main" target="14" />
+      <module name="jb.academy.java.simple-chatty-bot.Topics-Scanning_the_input-Theory.main" target="14" />
+      <module name="jb.academy.java.simple-chatty-bot.Topics-Scanning_the_input-Understanding_System.in.main" target="14" />
+      <module name="jb.academy.java.simple-chatty-bot.Topics-Types_and_variables-Animal.main" target="14" />
+      <module name="jb.academy.java.simple-chatty-bot.Topics-Types_and_variables-Assignments.main" target="14" />
+      <module name="jb.academy.java.simple-chatty-bot.Topics-Types_and_variables-Assignments__1_.main" target="14" />
+      <module name="jb.academy.java.simple-chatty-bot.Topics-Types_and_variables-Fill_the_declaration.main" target="14" />
+      <module name="jb.academy.java.simple-chatty-bot.Topics-Types_and_variables-Incorrect_counter.main" target="14" />
+      <module name="jb.academy.java.simple-chatty-bot.Topics-Types_and_variables-Invalid_declaration_of_variables.main" target="14" />
+      <module name="jb.academy.java.simple-chatty-bot.Topics-Types_and_variables-Statements.main" target="14" />
+      <module name="jb.academy.java.simple-chatty-bot.Topics-Types_and_variables-Statements__1_.main" target="14" />
+      <module name="jb.academy.java.simple-chatty-bot.Topics-Types_and_variables-The_assignment_operator.main" target="14" />
+      <module name="jb.academy.java.simple-chatty-bot.Topics-Types_and_variables-The_name_of_a_variable.main" target="14" />
+      <module name="jb.academy.java.simple-chatty-bot.Topics-Types_and_variables-Theory.main" target="14" />
+      <module name="jb.academy.java.simple-chatty-bot.util.main" target="14" />
       <module name="Simple_Chatty_Bot.Simple_Chatty_Bot-task-build-classes-java.main" target="14" />
       <module name="Simple_Chatty_Bot.Simple_Chatty_Bot-task-build-generated-sources-annotationProcessor-java.main" target="14" />
       <module name="Simple_Chatty_Bot.Simple_Chatty_Bot-task-build-generated-sources-headers-java.main" target="14" />
