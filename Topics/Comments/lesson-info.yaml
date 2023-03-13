@@ -8,7 +8,7 @@ content:
 - Uncomment a line
 - Javadoc comment
 - Incorrect comments
-- Hello, Java platform
+- "Hello, Java platform"
 - The countdown
 - Printing only the longest line
 - The forgotten comments
