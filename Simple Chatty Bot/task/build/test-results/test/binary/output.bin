@@ -24,4 +24,17 @@
 8!
 9!
 10!
-Completed, have a nice day!
+'Let's test your programming knowledge.
+Why do we use methods?
+)1. To repeat a statement multiple times.
+82. To decompose program into several small subroutines.
+13. To determine the execution time of a program.
+,4. To interrupt the execution of a program.
+> 1
+Please, try again.
+> 2
+Please, try again.
+> 3
+Please, try again.
+> 4
+"Congratulations, have a nice day!

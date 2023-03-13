@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="Tests" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-03-13T17:49:02" hostname="macbook-C02DG4V0MD6R" time="0.15">
+<testsuite name="Tests" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-03-13T17:58:45" hostname="macbook-C02DG4V0MD6R" time="0.157">
   <properties/>
-  <testcase name="start" classname="Tests" time="0.15"/>
+  <testcase name="start" classname="Tests" time="0.157"/>
   <system-out><![CDATA[?[1;31m
 Start test 1?[0m
 Hello! My name is Aid.
@@ -28,7 +28,20 @@ Now I will prove to you that I can count to any number you want.
 8!
 9!
 10!
-Completed, have a nice day!
+Let's test your programming knowledge.
+Why do we use methods?
+1. To repeat a statement multiple times.
+2. To decompose program into several small subroutines.
+3. To determine the execution time of a program.
+4. To interrupt the execution of a program.
+> 1
+Please, try again.
+> 2
+Please, try again.
+> 3
+Please, try again.
+> 4
+Congratulations, have a nice day!
 ]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
